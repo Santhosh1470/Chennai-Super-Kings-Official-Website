@@ -22,11 +22,9 @@ The **Chennai Super Kings** are one of the most successful teams in the Indian P
 - 🌍 **Fan Interactions**: A section for fans to submit messages or shoutouts.
 
 ## Technologies Used
-- **HTML5** for the structure of the website
-- **CSS3** for styling and layout
-- **JavaScript** for interactivity (e.g., match countdowns, live scores)
-- **Bootstrap** for responsive design
-- **jQuery** for dynamic content loading (if applicable)
+- **HTML** for the structure of the website
+- **CSS** for styling and layout
+- Developed using **Visual Studio Code** as the code editor for HTML and CSS
 
 ## Getting Started
 To run this project locally, follow these steps:
